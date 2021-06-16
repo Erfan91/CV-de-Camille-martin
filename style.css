@@ -1,0 +1,124 @@
+body{
+    background-color: black;
+    background-image: url(../R7dce1412bb3b0974616fadee992bc4e7.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: arial;
+    margin: 0;
+}
+nav{
+    height: 70px;
+    display: flex;
+}
+
+.secondary-block{
+color: rgb(11, 235, 243);
+background-color:rgb(0, 0, 0) ;
+
+}
+
+a{
+    color:rgb(11, 235, 243)
+}
+
+nav h2{
+
+    margin: 0;
+    padding-top: 20px;
+    padding-right: 0;
+    padding-bottom: 20;
+    padding-left: 15px;
+}
+
+nav ul{
+display: flex;
+margin: 0;
+padding: 24px;
+list-style: none;
+}
+
+nav li{
+    margin-left: 15px;
+}
+
+header{
+    text-align: center;
+    padding: 40px;
+}
+
+header h1{
+    color:rgb(0, 238, 255);
+}
+
+.content{
+     max-width: 800px;
+     margin: 0 auto;
+}
+
+header h2{
+    color:rgb(0, 238, 255);
+    
+}
+
+header img{
+    width: 150px;
+    border-radius: 75px;
+    box-shadow: 3px 3px 6px rgb(11, 235, 243) ;
+}
+
+section{
+    color: rgb(11, 235, 243);
+   
+    padding: 40px;
+}
+
+#xp ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#xp li{
+        margin-bottom: 10px;
+}
+
+#xp aside{
+     float: right;
+
+}
+
+#education ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+#education li{
+    margin-bottom: 10px;
+}
+
+#education aside{
+    float: right;
+}
+
+footer{
+    padding: 40px;
+}
+
+footer ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.links{
+    margin-bottom: 25px;
+    width: 390px;
+    display: inline-block;
+}
+
+#profile{
+    color: rgb(11, 235, 243);
+}
+
+
